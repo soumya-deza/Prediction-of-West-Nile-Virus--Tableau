@@ -5,6 +5,8 @@ In 2002, the first human cases of West Nile virus were reported in Chicago. By 2
 
 Every week from late spring through the fall, mosquitos in traps across the city are tested for the virus. The results of these tests influence when and where the city will spray airborne pesticides to control adult mosquito populations.
 
+TABLEAU FILE: https://github.com/soumya-deza/Prediction-of-West-Nile-Virus--Tableau/blob/master/Soumya%20Ranjan%20Pradhan_Tableau_EduManta.twbx
+
 
 DASHBOARD:
 
